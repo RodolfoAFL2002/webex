@@ -54,4 +54,4 @@ jobs:
           app-name: 'pizzaslunches'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D81F7B29183A4725AC900F9E2F74E552 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_63FA55290CD5473EB8BA67791B84BA30 }}
